@@ -1,6 +1,0 @@
-use_frameworks!
-target 'WBDownload_Tests' do
-  pod 'WBDownload', :path => '../'
-  
-  
-end

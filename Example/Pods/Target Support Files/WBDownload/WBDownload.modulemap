@@ -1,6 +1,0 @@
-framework module WBDownload {
-  umbrella header "WBDownload-umbrella.h"
-
-  export *
-  module * { export * }
-}
